@@ -1,2 +1,16 @@
-# Women-centric-safety-app
-Women-centric Safety App is an Android application built using Java, XML, and Firebase. It uses GPS, Google Maps API, and Speech-to-Text for voice-based emergency alerts. Users can send real-time location to contacts, neighbors, and police. It ensures quick response, complaint reporting, and improved community safety.
+# womenss
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
